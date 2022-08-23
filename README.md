@@ -23,7 +23,7 @@
 <h2>
   <a href="https://github.com/code-monkey-tech" target="_blank">Our Team repository</a>🐵
 </h2>
-<a href="https://github.com/Korolkovart">
+<a href="https://github.com/E7ast1c">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=E7ast1c/tomato-timer&layout=compact" alt="Top Langs" />
 </a>
 <!--
