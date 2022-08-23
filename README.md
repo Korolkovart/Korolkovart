@@ -21,8 +21,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <h2>
-  <a href="https://github.com/Korolkovart/" target="_blank">Our Team repository</a>🐵
+  <a href="https://github.com/code-monkey-tech" target="_blank">Our Team repository</a>🐵
 </h2>
+
 
 <!--
 <a href="https://github.com/Korolkovart">
