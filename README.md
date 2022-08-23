@@ -16,11 +16,11 @@ FrontEnd 💫
 </code>
 
 <a href="https://github.com/Korolkovart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=E7ast1c" alt="GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Korolkovart" alt="GitHub stats" />
 </a>
 
 <a href="https://github.com/Korolkovart">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=E7ast1c&layout=compact" alt="Top Langs" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korolkovart&layout=compact" alt="Top Langs" />
 </a>
 
 <!--
