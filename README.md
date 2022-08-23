@@ -5,8 +5,6 @@
 
 
 <p>Welcome to my page! </br> I'm Artem, Frontend developer</p>
-<h3>Things I code with</h3>
-<p>
 
 <h2>Things I code with:</h2> 
 
